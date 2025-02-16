@@ -12,6 +12,3 @@ AI & Data Science enthusiast with expertise in SQL, Power BI, and Python. Passio
 ## 📫 Connect with Me
 - 📧 manikandan.analyst@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/manikandank31)
-- 🌍 Bengaluru, Karnataka
-
-
